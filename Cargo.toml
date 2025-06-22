@@ -1,0 +1,8 @@
+[package]
+name = "lines"
+version = "0.2.0"
+edition = "2024"
+description = "Lines checker command for Windows"
+
+[[bin]]
+name = "lines"
